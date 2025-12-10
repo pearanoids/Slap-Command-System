@@ -82,11 +82,15 @@ sampctl package install maddinat0r/sscanf
 
 <br/>If included inside your GM:
 
-`#include "slap_system.pwn"`
+```
+#include "slap_system.pwn"
+```
 
 <br/>If using as a filterscript, add to `server.cfg`:
 
-`filterscripts slap_system`
+```
+filterscripts slap_system
+```
 
 
 
