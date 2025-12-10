@@ -59,7 +59,7 @@ Follow these easy steps:
 
 <br/><br/>2️⃣ Ensure Required Includes Exist
 
-Make sure you have:
+<br/>Make sure you have:
 
 `a_samp`
 `sscanf2`
@@ -155,10 +155,9 @@ Only users whose username matches your admin list can use the command.
 
 🚫 Do not put spaces in admin usernames
 
-<br/>Example:
+Example:
 <br/>❌ "John Doe"
 <br/>✔ "John_Doe"
-
 
 <br/>🛠 If you want multiple admins → just add more `AddAdmin("username");` lines
 
