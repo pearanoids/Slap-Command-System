@@ -19,10 +19,7 @@ A lightweight, username-based admin slap system for SA-MP RP servers
 This script adds a simple but powerful /slap system to any SA-MP Roleplay gamemode.
 Admins (verified by username only) can slap a single player or every player online with a high jump effect.
 
-✔ Clean compile 
-✔ Lightweight & stable 
-✔ Fully RP-friendly 
-✔ No admin IDs required — username check only 
+✔ Clean compile <br/>✔ Lightweight & stable <br/>✔ Fully RP-friendly <br/>✔ No admin IDs required — username check only 
 
 
 ---
