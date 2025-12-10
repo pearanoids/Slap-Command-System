@@ -154,10 +154,11 @@ Only users whose username matches your admin list can use the command.
 ✏ Change admin names exactly as they appear in-game (case-insensitive)
 
 🚫 Do not put spaces in admin usernames
-
+```
 Example:
-<br/>❌ "John Doe"
-<br/>✔ "John_Doe"
+❌ "John Doe"
+✔ "John_Doe"
+```
 
 🛠 If you want multiple admins → just add more `AddAdmin("username");` lines
 
@@ -176,7 +177,7 @@ Requirement	Description
 <br/>`SA-MP Server 0.3.7` / `open.mp`	Works on both
 <br/>`Pawn Compiler`	Standard pawncc is enough
 <br/>`sscanf` Plugin	Needed for command parsing
-<br/>Basic Server Knowledge	How to compile & run SA-MP
+<br/>`Basic Server Knowledge`	How to compile & run SA-MP
 
 
 
