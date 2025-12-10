@@ -50,9 +50,9 @@ Follow these easy steps:
 
 
 
-1️⃣ Download the Script
+<br/>1️⃣ Download the Script
 
-Download the `.pwn` file and place it inside your gamemode or filterscripts folder.
+<br/>Download the `.pwn` file and place it inside your gamemode or filterscripts folder.
 
 
 
@@ -80,11 +80,11 @@ sampctl package install maddinat0r/sscanf
 
 <br/><br/>3️⃣ Add Script to Your Gamemode
 
-If included inside your GM:
+<br/>If included inside your GM:
 
 `#include "slap_system.pwn"`
 
-If using as a filterscript, add to server.cfg:
+<br/>If using as a filterscript, add to server.cfg:
 
 `filterscripts slap_system`
 
@@ -93,7 +93,7 @@ If using as a filterscript, add to server.cfg:
 
 <br/><br/>4️⃣ Add Your Admin Username(s)
 
-Inside `OnGameModeInit()`:
+<br/>Inside `OnGameModeInit()`:
 
 ```
 AddAdmin("YourAdminName"); // ← replace this
@@ -107,9 +107,9 @@ You can add unlimited names.
 
 <br/><br/>5️⃣ Compile
 
-Compile using your standard Pawn compiler:
+<br/>Compile using your standard Pawn compiler:
 
-pawncc yourgamemode.pwn
+`pawncc yourgamemode.pwn`
 
 If everything is correct — you will get:
 
@@ -120,7 +120,7 @@ If everything is correct — you will get:
 
 <br/><br/>6️⃣ Start Your Server
 
-Run SA-MP server and test:
+<br/>Run SA-MP server and test:
 
 `/slap <playerid>`
 `/slap all`
