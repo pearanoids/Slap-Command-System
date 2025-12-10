@@ -51,23 +51,35 @@ Admins (verified by username only) can slap a single player or every player onli
 
 Follow these easy steps:
 
+
+
 1️⃣ Download the Script
 
 Download the `.pwn` file and place it inside your gamemode or filterscripts folder.
 
-> 2️⃣ Ensure Required Includes Exist
+
+
+
+2️⃣ Ensure Required Includes Exist
 
 Make sure you have:
 
 `a_samp`
 `sscanf2`
 
-If you are missing sscanf2, download it from:
+> If you are missing sscanf2, download it from:
 ➡ https://github.com/maddinat0r/sscanf
+
+
 
 Or install via sampctl:
 
+```
 sampctl package install maddinat0r/sscanf
+```
+
+
+
 
 3️⃣ Add Script to Your Gamemode
 
@@ -78,6 +90,9 @@ If included inside your GM:
 If using as a filterscript, add to server.cfg:
 
 `filterscripts slap_system`
+
+
+
 
 4️⃣ Add Your Admin Username(s)
 
@@ -90,6 +105,9 @@ AddAdmin("SecondAdmin");   // optional
 
 You can add unlimited names.
 
+
+
+
 5️⃣ Compile
 
 Compile using your standard Pawn compiler:
@@ -101,6 +119,9 @@ If everything is correct — you will get:
 ✔ No errors
 ✔ No warnings
 ✔ Clean compile
+
+
+
 
 6️⃣ Start Your Server
 
