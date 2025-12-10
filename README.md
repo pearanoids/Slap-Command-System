@@ -53,9 +53,9 @@ Follow these easy steps:
 
 1️⃣ Download the Script
 
-Download the `.pwn` file and place it inside your gamemode or filterscripts folder.<br/>
+Download the `.pwn` file and place it inside your gamemode or filterscripts folder.
 
-2️⃣ Ensure Required Includes Exist
+> 2️⃣ Ensure Required Includes Exist
 
 Make sure you have:
 
