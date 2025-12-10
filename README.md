@@ -53,7 +53,7 @@ Follow these easy steps:
 
 1️⃣ Download the Script
 
-Download the `.pwn` file and place it inside your gamemode or filterscripts folder.
+Download the `.pwn` file and place it inside your gamemode or filterscripts folder.<br/>
 
 2️⃣ Ensure Required Includes Exist
 
